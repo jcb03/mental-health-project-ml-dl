@@ -1,4 +1,5 @@
 # src/data/audio_processor.py
+pip install librosa
 import os
 import numpy as np
 import librosa
