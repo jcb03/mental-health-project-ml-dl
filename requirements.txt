@@ -1,0 +1,13 @@
+numpy
+pandas
+tensorflow
+torch
+transformers
+librosa
+opencv-python
+nltk
+deepface
+scikit-learn
+matplotlib
+streamlit
+joblib
